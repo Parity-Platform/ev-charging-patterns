@@ -1,2 +1,1 @@
-# ev-charging-patterns
-Segmentation and pattern extraction from EV Charging Session Data
+# Segmentation and pattern extraction from EV Charging Session Data
